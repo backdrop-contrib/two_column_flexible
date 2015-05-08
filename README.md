@@ -10,7 +10,7 @@ Installation
 ------------
 
 1. Download or clone this repository.
-2. Extract to */layouts* such that this README.md file is at */layouts/radix_layouts/README.md*.
+2. Extract to */layouts* such that this README.md file is at */layouts/two_column_flexible/README.md*.
 3. Use layout on desired paths.
 
 License
